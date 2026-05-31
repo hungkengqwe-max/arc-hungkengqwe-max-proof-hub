@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcHungkengqweMaxProofHub",
+  "address": "0x640FE1Cb2B708b96D4c82bF9F0D466e1Caf19F4b",
+  "txHash": "0x14056528f0c56ee4cedfb0f6b78eed66c77e4b3340e0aee19a55dc93796d799c",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
